@@ -1,7 +1,7 @@
 # My World Exploration Map
 This is a very simple Tableau map, showing all the places I've ever visited! You can interact with the map [here on Tableau Public](https://public.tableau.com/app/profile/aayushi.verma/viz/my_world_exploration_map/PlacesIveBeen).
 
-<img src="img/static.jpg">
+<img src="img/demo.gif">
 
 ## Authors
 
@@ -27,7 +27,7 @@ In this repository, there is a folder `data` which contains an Excel file. This 
 
 This Excel file is the input to the Tableau dashboard, and simply visualizes that data for me! I also added filters for the countries, and color-coded by country.
 
-<img src="img/demo.gif">
+<img src="img/static.jpg">
 
 ## How To Use
 If you want to make an interactive Tableau map to record your own adventures, feel free to fork this repository and change the data in the data file! You can also leave a star if you liked this work! :)

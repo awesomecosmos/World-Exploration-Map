@@ -23,6 +23,10 @@ In this repository, there is a folder `data` which contains an Excel file. This 
 - City - to indicate (at the most granular level) the cities I've visited
 - First Visited - to indicate the first time I visited that place (if I remember, otherwise blank)
 - Last Visited - to indicate the last time I visited that place (if I remember, otherwise blank)
+- Visit Status - to indicate my familiarity with the location.
+  - 'Lived' means I stayed in that location for at least 1 month.
+  - 'Regularly visited' means I visit/visited that location occasionally or frequently.
+  - 'Visited' means I visited that place very infrequently, maybe only once.
 - Comments - my comments about that place
 
 This Excel file is the input to the Tableau dashboard, and simply visualizes that data for me! I also added filters for the countries, and color-coded by country.

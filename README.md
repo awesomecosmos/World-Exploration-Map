@@ -34,4 +34,5 @@ This Excel file is the input to the Tableau dashboard, and simply visualizes tha
 <img src="img/static.jpg">
 
 ## How To Use
-If you want to make an interactive Tableau map to record your own adventures, feel free to fork this repository and change the data in the data file! You can also leave a star if you liked this work! :)
+Leave a star if you liked this work! :)
+If you want to make an interactive Tableau map to record your own adventures, feel free to fork this repository and change the data in the data file! Please cite my original work if you do so! 
